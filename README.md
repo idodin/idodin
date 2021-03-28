@@ -2,8 +2,8 @@
 
 ### About Me
 My name is Imad Dodin (عماد دودين) - I'm a Palestinian-Canadian Software Engineer / Violinist / Coffee Aficionado that is currently taking it easy post-graduation 🌴. You're probably here because you:
-- Know me from one of my internships / workplaces
-- Know me from Competitive Programming at McGill
+- Know me from one of my internships / workplaces.
+- Know me from Competitive Programming at McGill.
 - Somehow stumbled upon one of my abandoned Personal Projects.
 
 ![Cat Typing on Keyboard GIF](https://lh3.googleusercontent.com/proxy/mAjtn3tcBRbJI8VhAmGb9idTGEbSI1MdaMRYoJpxbVJHFxmC01bfTIuXTDsz6s70YDl_6s-ggC1rpfdqAkPJCTe-t9nkmW4)
