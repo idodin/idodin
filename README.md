@@ -10,12 +10,9 @@ My name is Imad Dodin (عماد دودين) - I'm a Palestinian-Canadian Softwar
 
 
 ### What I'm Currently Doing:
-In my free time, I'm currently improving my Competitive Programming skills (after taking a long break organizing and not competing myself) and working on a couple of private projects that I'm excited to announce soon. 
 
-I'm also swimming in the world of Distributed Systems, trying to find out what the most exciting thing about them are (they're all super cool). If you're also interested in Distributed Systems, here are some resources that I've been using recently:
-- _Distributed Systems: Concepts and Design_ by G. Coulouris, J. Dollimore, T. Kindberg and G. Blair. Addison-Wesley, 5th ed.
-    - As referenced by McGill: COMP 512: Distributed Systems.
-- [**MIT 6.824**: Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html) (Courtesy of Prof. Kaashoek).
-- [**This**](https://pdos.csail.mit.edu/6.824/schedule.html) awesome list of resources.
+![image](https://user-images.githubusercontent.com/22532262/166412478-078c14f1-03a6-4c94-b48f-0fcacf62c4cc.png)
 
-For the above, I'm slowly picking up Golang. 
+In my free time outside of work, I'm building [Paire](https://pairevr.com), a Virtual Reality Social App that pairs you with random users and breaks the ice with fun activities. 
+
+Feel free to [sign up](https://pairevr.com) to our newsletter!
