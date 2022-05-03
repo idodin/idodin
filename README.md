@@ -6,9 +6,6 @@ My name is Imad Dodin (عماد دودين) - I'm a Palestinian-Canadian Softwar
 - Know me from Competitive Programming at McGill.
 - Somehow stumbled upon one of my abandoned Personal Projects.
 
-![Cat Typing on Keyboard GIF](https://media.tenor.com/images/a8112d7d456869eea83af990bb91894c/tenor.gif)
-
-
 ### What I'm Currently Doing:
 
 ![image](https://user-images.githubusercontent.com/22532262/166412478-078c14f1-03a6-4c94-b48f-0fcacf62c4cc.png)
